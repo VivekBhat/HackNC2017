@@ -25,7 +25,7 @@ exports.handler = function (event, context) {
          * prevent someone else from configuring a curr_val that sends requests to this function.
          */
 
-    if (event.session.application.applicationId !== "amzn-id") {
+    if (event.session.application.applicationId !== "amzn1.ask.skill.e39741be-1043-489c-8bf2-14f35dfcfb9c") {
         context.fail("Invalid Application ID");
      }
 
