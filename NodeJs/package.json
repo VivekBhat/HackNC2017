@@ -1,0 +1,25 @@
+{
+  "name": "hacknc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivekBhat/HackNC2017.git"
+  },
+  "keywords": [
+    "hacknc"
+  ],
+  "author": "vivekbhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivekBhat/HackNC2017/issues"
+  },
+  "homepage": "https://github.com/VivekBhat/HackNC2017#readme",
+  "dependencies": {
+    "coinbase": "^2.0.6"
+  }
+}
