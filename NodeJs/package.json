@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/VivekBhat/HackNC2017#readme",
   "dependencies": {
-    "coinbase": "^2.0.6"
+    "api-bittrex": "0.0.2",
+    "coinbase": "^2.0.6",
+    "jsonfile": "^4.0.0",
+    "node-bittrex-api": "^0.7.6"
   }
 }
