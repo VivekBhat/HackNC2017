@@ -18,10 +18,10 @@ from textblob import TextBlob
 
 def main():
     
-    consumer_key = 'tFAw25kbz0IuQgRVuK1FL4CWV'
-    consumer_secret = 'naHpju8u6QJQbUKvQsYcQUG6UFHUMTniCqMwZjIjbto1aUDqjV'
-    access_token = '200421701-4mkUnjHH9vGAZepsnCsDjPpzcPhmhZoGze9KVFZV'
-    access_token_secret = 'JEZWmFYx637IpbDmhuSaiZVLOFveRxFdMqqBBmnaLwLry'
+    consumer_key = ''
+    consumer_secret = ''
+    access_token = ''
+    access_token_secret = ''
 
     auth = OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
