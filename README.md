@@ -4,7 +4,7 @@
 
 ### Natural Language Processing
 
-Multiple papers have been publised regarding "Bitcoin proce prediction using Twitter Sentiment Analysis", such as the ones mentioned below:
+Multiple papers have been publised regarding "Bitcoin price prediction using Twitter Sentiment Analysis", such as the ones mentioned below:
 
 - http://www.diva-portal.org/smash/get/diva2:1110776/FULLTEXT01.pdf
 - http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161197
