@@ -1,10 +1,8 @@
 # import tweepy library for twitter api access and textblob libary for sentiment analysis
 import csv
 import tweepy
-import numpy as np
 import re
 import nltk
-import boto3
 from time import sleep
 import pandas as pd
 import datetime
