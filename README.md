@@ -1,6 +1,11 @@
 # Hack NC 2017
-
 ## Bitcoin Sentiment Analysis by calculating the Bitcoin Sentiment Index
+## Team Members:
+<b>1.</b> Vivek Bhat <br>
+<b>2.</b> Priyal Jain <br>
+<b>3.</b> Sonal Patil  <br>
+<b>4.</b> Jaydeep Rane <br>
+<b>5.</b> Sohan Kunkerkar <br>
 
 ### Natural Language Processing
 
@@ -36,7 +41,7 @@ We used following technologies to build Alexa skills:<br>
 The core components of our project include Amazon Alexa SDK and Lambda where we deployed our services and developed alexa skills. We build our business logic for alexa using Nodejs and consumed ec2 and S3 storage services to implement our project.
 <br>
 <b>Here's the infrastructure Architecutre that we followed while developing our project:</b><br>
-![alt tag](https://github.com/VivekBhat/HackNC2017/blob/master/Infrastructure%20(1).jpg)</br>
+![alt tag](https://github.com/VivekBhat/HackNC2017/blob/master/resources/Infrastructure%20(1).jpg)</br>
 
 In conclusion, our project helps the user make a more informed decision before deciding against or in favour of investing in Bitcoin.
 
