@@ -9,13 +9,10 @@ from time import sleep
 import pandas as pd
 import datetime
 from tweepy.streaming import StreamListener
-from sklearn.naive_bayes import BernoulliNB, GaussianNB
-from sklearn.linear_model import LogisticRegression
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from twitter_creds import consumer_key, consumer_secret, access_token, access_token_secret
 from collections import Counter
 from tweepy import OAuthHandler, Stream
-from textblob import TextBlob
 
 global cpos
 global cneg

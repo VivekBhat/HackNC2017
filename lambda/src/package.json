@@ -6,6 +6,7 @@
   "dependencies": {
     "alexa-sdk": "^1.0.14",
     "get-json": "^1.0.0",
+    "node-bittrex-api": "^0.7.6",
     "request": "^2.83.0",
     "sync-request": "^4.1.0",
     "write": "^1.0.3"

@@ -26,6 +26,6 @@ var handlers = {
 
     'SentimentIntent': function() {
         var myCrypto = this.event.request.intent.slots.myCrypto.value;
-        this.emit(':tell', 'The value has changed by 6.02% percent');
+        this.emit(':tell', 'The value has changed by 5.72% percent');
     }
 };
