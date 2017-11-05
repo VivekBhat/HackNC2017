@@ -5,10 +5,10 @@ node bit.js
 var="$(cat foo.txt)"
 echo $var
 
-sed -i "s/.*The value has changed.*/        this.emit(':tell', 'The value has changed by $var');/" index.js
+sed -i "s/.*The value has changed.*/        this.emit(':tell', 'The value has changed by $var in the last 24 hours');/" index.js
 
 sentiment="$(cat result.txt)" 
-sed -i "s/.*Hello ! The current.*/        this.emit(':tell', '$sentiment');/" index.js
+sed -i "s/.*The current.*/        this.emit(':tell', '$sentiment');/" index.js
 
 
 mkdir -p src

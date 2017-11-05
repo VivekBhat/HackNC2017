@@ -17,17 +17,17 @@ var handlers = {
     },
 
     'LaunchIntent': function() {
-        this.emit(':ask', "Hi, do you want to know about bitcoin sentiment or its price change?");
+        this.emit(':ask', "Hi, do you want to know about bitcoin sentiment or  bitcoin's   price change?");
     },
 
     'SentimentIntent': function() {
         var myCrypto = this.event.request.intent.slots.myCrypto.value;
-        this.emit(':tell', 'lol');
+        this.emit(':tell', 'Okay, the current social media trend reflects a positive sentiment with a bitcoin sentiment index of 7. Total cryptocurrency market cap reaches $200B. Argentinas largest futures market considers offering Bitcoin futures. Bitcoin reaches $7000');
     },
 
     'PercentIntent': function() {
         var myPercent = this.event.request.intent.slots.myPercent.value;
-        this.emit(':tell', 'The value has changed by 6.37%');
+        this.emit(':tell', 'The value has changed by 5.83% in the last 24 hours');
     },
 };      
 
