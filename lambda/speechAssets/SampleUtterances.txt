@@ -1,0 +1,3 @@
+LanguageIntent {myLanguage}
+LanguageIntent my language is {myLanguage}
+LanguageIntent Say anything but must say {myLanguage} somewhere in your speech

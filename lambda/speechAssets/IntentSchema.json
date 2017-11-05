@@ -1,0 +1,9 @@
+{
+    "intents": [{
+        "intent": "LanguageIntent",
+        "slots": [{
+            "name": "myLanguage",
+            "type": "LIST_OF_LANGUAGES"
+        }]
+    }]
+}
