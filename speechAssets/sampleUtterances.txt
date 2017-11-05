@@ -1,8 +1,0 @@
-CryptoIntent {CryptoCurrency}
-CryptoIntent Tell me about {CryptoCurrency}
-CryptoIntent Talk about {CryptoCurrency}
-CryptoIntent Tell me some facts about {CryptoCurrency}
-AMAZON.HelpIntent Tell me those cryptocurrencies again
-AMAZON.HelpIntent Tell me the cryptocurrency names
-AMAZON.HelpIntent What are the cryptocurrency names again
-AMAZON.HelpIntent What are the cryptocurrency names
